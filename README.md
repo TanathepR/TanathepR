@@ -60,7 +60,7 @@
 ### 🎯 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanathepR&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanathepR&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanathepR&layout=pie&theme=radical)  
 
 ---
 
