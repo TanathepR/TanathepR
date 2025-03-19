@@ -1,26 +1,25 @@
 ## 👋 Hello, I'm Tanathep Rochanapaiwong!
 
-🚀 **looking for HPC Engineer job**  
+🚀 **looking for High-Performance Computing (HPC) Engineer job**  
 
 ---
 
 ### 🔧 About Me
-- 💻 Passionate about **HPC, Parallel Computing, Workload Profiling and Workload Optimization**
-- ⚡ Experienced in **MPI, OpenMP, CPU Computing, Profiling, Workload Benchmarking**
-- 🎯 Focused on **Workloads Optimizing on Supercomputers**
+- 💻 Passionate about **HPC, Parallel Computing, Workload Profiling, and Workload Optimization**
+- ⚡ Experienced in **MPI, OpenMP, CPU Computing, Profiling, and Workload Benchmarking**
+- 🎯 Focused on **Optimizing Workloads on Supercomputers**
 - 📊 Interested in **Performance Benchmarking, Profiling, and Scalability Analysis**
 - 🔍 Open to collaborations on **HPC research, AI optimization, and distributed computing** or **looking for job opportunities**
 
 ---
 
-### Supercomputing access experience
-- Fugaku Supercomputer (R-CCS from Japan)
-- ASPIRE-2A Supercomputer (NSCC from Singapore)
-- GADI Supercomputer (NCI from Australia)
-- LANTA Supercomputer (ThaiSC from Thailand)
-- MareNostrum 5 Supercomputer (BSC from Spain)
+### 🖥 Supercomputing Access Experience
+- Fugaku Supercomputer (R-CCS, Japan)
+- ASPIRE-2A Supercomputer (NSCC, Singapore)
+- GADI Supercomputer (NCI, Australia)
+- LANTA Supercomputer (ThaiSC, Thailand)
+- MareNostrum 5 Supercomputer (BSC, Spain)
 
----
 ---
 
 ### 🔨 Technical Skills
@@ -30,7 +29,7 @@
 - Compiler Optimization and MPI Tuning
 - MPI (Intel MPI, OpenMPI) | OpenMP
 - Slurm and PBS Schedulers 
-- Performance profiling: Arm Forge, Intel VTune, Intel Advisor, Darshan IO, Extrae 
+- Performance Profiling: Arm Forge, Intel VTune, Intel Advisor, Darshan IO, Extrae 
 
 🧠 **AI & Machine Learning on HPC**  
 - TensorFlow | PyTorch
@@ -44,17 +43,17 @@
 
 ### 📌 Projects
 
-🔹 **📈 MPAS Atmosphere Benchmarking and Performance Optimization for Weather Forecasting on the GADI Supercomputer**
+🔹 **📈 MPAS Atmosphere Benchmarking and Performance Optimization for Weather Forecasting on the GADI Supercomputer**  
 🔹 **📈 HOOMD-blue Benchmarking and Performance Optimization for Molecular Dynamics on the GADI and ASPIRE-2A Supercomputers**  
-🔹 **🚌 User-Friendly Web Interface for Fine-Tuning Large Language Models on Supercomputers for Thai Non-Experts on LANTA Supercomputer**  
+🔹 **🚌 User-Friendly Web Interface for Fine-Tuning Large Language Models on Supercomputers for Thai Non-Experts on the LANTA Supercomputer**  
   
 ---
 
 ### 📫 How to Reach Me
 
-📧 Email: tanatheproc@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/tanathep-rochanapaiwong-6107a6268 
-🌐 Website: Future Work
+📧 Email: tanatheproc@gmail.com  
+💼 LinkedIn: [Tanathep Rochanapaiwong](https://www.linkedin.com/in/tanathep-rochanapaiwong-6107a6268)  
+🌐 Website: *Future Work*
 
 ---
 
