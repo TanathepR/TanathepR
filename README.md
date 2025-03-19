@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Tanathep Rochanapaiwong!
 
-🚀 **from Thailand and looking for High-Performance Computing (HPC) Engineer job**  
+🚀 **from Thailand and looking for High-Performance Computing (HPC) Engineer or Specialist job**  
 
 ---
 
