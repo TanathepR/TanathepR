@@ -13,7 +13,7 @@
 
 ---
 
-### 🖥 Supercomputing Access Experience
+### 🖥 Supercomputing Access Experiences
 - Fugaku Supercomputer (R-CCS, Japan)
 - ASPIRE-2A Supercomputer (NSCC, Singapore)
 - GADI Supercomputer (NCI, Australia)
