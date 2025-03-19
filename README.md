@@ -31,8 +31,8 @@
 - Slurm and PBS Schedulers 
 - Performance Profiling: Arm Forge, Intel VTune, Intel Advisor, Darshan IO, Extrae 
 
-🧠 **AI & Machine Learning on HPC**  
-- TensorFlow | PyTorch
+🧠 **AI & Machine Learning**  
+- TensorFlow | PyTorch | Scikit-learn
 
 🔧 **System & Software Development**  
 - Linux (Rocky Linux, CentOS, Ubuntu) | Shell Scripting | Bash  
