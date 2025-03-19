@@ -6,7 +6,7 @@
 
 ### 🔧 About Me
 - 💻 Passionate about **HPC, Parallel Computing, Workload Profiling, and Workload Optimization**
-- ⚡ Experienced in **MPI, OpenMP, CPU Computing, Profiling, and Workload Benchmarking**
+- ⚡ Experienced in **MPI, OpenMP, CPU Computing, Profiling, Workload Optimizing and Benchmarking**
 - 🎯 Focused on **Optimizing Workloads on Supercomputers**
 - 📊 Interested in **Performance Benchmarking, Profiling, and Scalability Analysis**
 - 🔍 Open to collaborations on **HPC research, AI optimization, and distributed computing** or **looking for job opportunities**
