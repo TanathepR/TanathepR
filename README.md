@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Tanathep Rochanapaiwong!
 
-🚀 **High-Performance Computing (HPC) Engineer**  
+🚀 **looking for HPC Engineer job**  
 
 ---
 
